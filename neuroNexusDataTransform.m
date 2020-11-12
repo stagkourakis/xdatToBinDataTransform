@@ -1,4 +1,4 @@
-%%  This scripts aims to transform that data acquired by NeuroNexus proprietary software Allego to binary format
+%%  This scripts aims to transform the data acquired by NeuroNexus proprietary software Allego to binary format
 %   which is compatible with the spike sorting pipeline KiloSort
 
 %   (C) Stefanos Stagkourakis, 2020
